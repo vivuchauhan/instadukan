@@ -18,9 +18,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # Install dependencies
-npm install
-npm install react-redux redux
-npm install react-router
+npm install.\
+npm install react-redux redux.\
+npm install react-router.\
 
 ### `npm test`
 
